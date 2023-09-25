@@ -1,0 +1,13 @@
+Patient 0: Accuracy = 0.7954545454545454
+Patient 1: Accuracy = 0.6136363636363636
+Patient 2: Accuracy = 0.9772727272727273
+Patient 3: Accuracy = 0.7727272727272727
+Patient 4: Accuracy = 0.7727272727272727
+Patient 5: Accuracy = 0.7727272727272727
+Patient 6: Accuracy = 0.6818181818181818
+Patient 7: Accuracy = 0.6590909090909091
+Patient 8: Accuracy = 0.9772727272727273
+Patient 9: Accuracy = 0.6818181818181818
+Patient 10: Accuracy = 0.5681818181818182
+Patient 11: Accuracy = 0.75
+Patient 12: Accuracy = 0.75

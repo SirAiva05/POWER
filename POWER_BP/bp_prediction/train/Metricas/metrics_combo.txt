@@ -1,0 +1,21 @@
+[4.         1.         Coeficiente de determinação R²: 1.0
+[4.         3.         Coeficiente de determinação R²: 0.825329110931191
+[4.         7.         Coeficiente de determinação R²: 0.6883401758820882
+
+---------------------------------------------------------------------
+
+[6.         1.         Coeficiente de determinação R²: 1.0
+[6.         3.         Coeficiente de determinação R²: 0.8549743975980247
+[6.         7.         Coeficiente de determinação R²: 0.7323759461801839
+
+---------------------------------------------------------------------
+
+[8.         1.         Coeficiente de determinação R²: 1.0
+[8.         3.         Coeficiente de determinação R²: 0.874680458670153
+[8.         7.         Coeficiente de determinação R²: 0.7631708947209043
+
+---------------------------------------------------------------------
+
+[10.          1.       Coeficiente de determinação R²: 1.0
+[10.          3.       Coeficiente de determinação R²: 0.887285987072625
+[10.          7.       Coeficiente de determinação R²: 0.7879801164118477

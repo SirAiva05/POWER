@@ -1,0 +1,50 @@
+Dataset em analise ->  dataset/1_trial/AG1011.xlsx
+Tamanho do dataset:  2050
+ACC 12h -->  1.7316017316017316
+MAE 12h -->  15.114409400123686
+RMSE 12h -->  18.795452021635132
+Dataset em analise ->  dataset/1_trial/AG1021.xlsx
+Tamanho do dataset:  2066
+ACC 12h -->  0.9797917942437232
+MAE 12h -->  23.950398040416413
+RMSE 12h -->  31.198228395067797
+Dataset em analise ->  dataset/1_trial/AG1031.xlsx
+Tamanho do dataset:  2082
+ACC 12h -->  0.3638568829593693
+MAE 12h -->  63.10673135233475
+RMSE 12h -->  74.97521320751567
+Dataset em analise ->  dataset/1_trial/AG1041.xlsx
+Tamanho do dataset:  2076
+ACC 12h -->  0.24345709068776628
+MAE 12h -->  78.4108338405356
+RMSE 12h -->  97.64729965983794
+Dataset em analise ->  dataset/1_trial/AG1051.xlsx
+Tamanho do dataset:  2012
+ACC 12h -->  0.6966434452184928
+MAE 12h -->  54.65611146295124
+RMSE 12h -->  65.1647495597159
+Dataset em analise ->  dataset/1_trial/AG1061.xlsx
+Tamanho do dataset:  2042
+ACC 12h -->  0.3729024238657551
+MAE 12h -->  48.571783716594155
+RMSE 12h -->  57.37132764325775
+Dataset em analise ->  dataset/1_trial/AG1081.xlsx
+Tamanho do dataset:  2066
+ACC 12h -->  0.7960808328230252
+MAE 12h -->  54.254133496631965
+RMSE 12h -->  71.10462952914985
+Dataset em analise ->  dataset/1_trial/AG1111.xlsx
+Tamanho do dataset:  2066
+ACC 12h -->  1.8983466013472137
+MAE 12h -->  12.401102265768523
+RMSE 12h -->  15.640734576008846
+Dataset em analise ->  dataset/1_trial/AG1141.xlsx
+Tamanho do dataset:  2056
+ACC 12h -->  1.0474430067775724
+MAE 12h -->  24.67455329636476
+RMSE 12h -->  29.596804210423077
+Dataset em analise ->  dataset/1_trial/AG1161.xlsx
+Tamanho do dataset:  1528
+ACC 12h -->  0.547945205479452
+MAE 12h -->  48.88493150684931
+RMSE 12h -->  58.265625415186534
