@@ -2,6 +2,8 @@ import numpy as np
 from validate_bp_data import validate_bp_data
 from tensorflow import keras
 import pandas as pd
+from tensorflow.keras.layers import Dense, Flatten, Concatenate
+from tensorflow.keras import Input, Model, backend
 
 # predicao usando o modelo treinado com os dados de todos os pacientes para o respetivo tamanho de input e horizonte de predicao
 # patient_input = array de tamanho entre 3 e 10 dias com os valores de BP observados do paciente (entre 50mmHg e 200mmHg)
