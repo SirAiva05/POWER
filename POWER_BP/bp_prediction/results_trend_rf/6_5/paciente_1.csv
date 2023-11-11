@@ -1,0 +1,8 @@
+Métrica,Valor
+Acurácia,0.4671717171717172
+Matriz de Confusão,"[[14  1  9]
+ [ 1  0  3]
+ [ 3  1 18]]"
+Relatório de Classificação,"{'-1.0': {'precision': 0.7777777777777778, 'recall': 0.5833333333333334, 'f1-score': 0.6666666666666666, 'support': 24}, '0.0': {'precision': 0.0, 'recall': 0.0, 'f1-score': 0.0, 'support': 4}, '1.0': {'precision': 0.6, 'recall': 0.8181818181818182, 'f1-score': 0.6923076923076923, 'support': 22}, 'accuracy': 0.64, 'macro avg': {'precision': 0.45925925925925926, 'recall': 0.4671717171717172, 'f1-score': 0.452991452991453, 'support': 50}, 'weighted avg': {'precision': 0.6373333333333333, 'recall': 0.64, 'f1-score': 0.6246153846153846, 'support': 50}}"
+Sensibilidade,0.64
+Especificidade,0.9333333333333333

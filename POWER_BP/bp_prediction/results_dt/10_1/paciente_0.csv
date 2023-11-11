@@ -1,0 +1,7 @@
+Métrica,Valor
+Acurácia,0.96
+Matriz de Confusão,"[[ 0  0]
+ [ 2 48]]"
+Relatório de Classificação,"{'-1': {'precision': 0.0, 'recall': 0.0, 'f1-score': 0.0, 'support': 0}, '0': {'precision': 1.0, 'recall': 0.96, 'f1-score': 0.9795918367346939, 'support': 50}, 'accuracy': 0.96, 'macro avg': {'precision': 0.5, 'recall': 0.48, 'f1-score': 0.4897959183673469, 'support': 50}, 'weighted avg': {'precision': 1.0, 'recall': 0.96, 'f1-score': 0.9795918367346939, 'support': 50}}"
+Sensibilidade,0.96
+Especificidade,nan
